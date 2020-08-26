@@ -1,3 +1,8 @@
 /// @description 
-speed = 0;
-direction = 0;
+image_speed = 0;
+hSpeed = 0;
+vSpeed = 0;
+walkSpd = 3.0;
+
+spriteRun;
+spriteIdle

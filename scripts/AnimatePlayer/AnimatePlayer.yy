@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Player Movement",
-    "path": "folders/Scripts/Player/Player Movement.yy",
+    "name": "Animation",
+    "path": "folders/Scripts/Player/Animation.yy",
   },
   "resourceVersion": "1.0",
-  "name": "playerCollision",
+  "name": "AnimatePlayer",
   "tags": [],
   "resourceType": "GMScript",
 }
